@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058123174027",
+    "project_id": "worldiq-9ca7e",
+    "storage_bucket": "worldiq-9ca7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058123174027:android:cbff34e9e99fa28aa4848e",
+        "android_client_info": {
+          "package_name": "com.example.world_iq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnPpK8bonYgb9HtJHUZe65fY5cn6ehHBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
